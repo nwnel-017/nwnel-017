@@ -4,9 +4,9 @@ Hi, I’m Nathan - a full-stack developer focused on building scalable web appli
 
 # My Stack
 
--Java, JavaScript, TypeScript
--React, Next.js, Express, Node, Nuxt
--PostgreSQL, Prisma ORM, Sequelize ORM, Nitro
+- Java, JavaScript, TypeScript
+- React, Next.js, Express, Node, Nuxt
+- PostgreSQL, Prisma ORM, Sequelize ORM, Nitro
 
 ## Featured Projects
 
